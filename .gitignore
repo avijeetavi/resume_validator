@@ -47,7 +47,6 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-config.py
 *.txt
 *.docx
 *.pdf
